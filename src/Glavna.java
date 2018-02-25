@@ -6,6 +6,7 @@ public class Glavna {
         int tmp1 = 1;
         if(tmp1==1)
             System.out.println("Top 7");
-        
+
+        System.out.println("Kraj");
     }
 }
