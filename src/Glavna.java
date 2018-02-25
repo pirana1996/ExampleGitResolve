@@ -14,5 +14,6 @@ public class Glavna {
         int g = 10;
         int xxx = 69;
         int y = 13;
+        System.out.println("K");
     }
 }
