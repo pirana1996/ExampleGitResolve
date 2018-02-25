@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class Glavna {
     public static void main(String[] args){
         System.out.println("koce");
@@ -8,5 +10,7 @@ public class Glavna {
             System.out.println("Hey");
         System.out.println("Jana");
         System.out.println("Trajko");
+        Scanner input = new Scanner(System.in);
+        System.out.println("HAHA");
     }
 }
