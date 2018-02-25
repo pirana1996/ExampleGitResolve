@@ -13,5 +13,6 @@ public class Glavna {
         int f = -10;
         int g = 10;
         int xxx = 69;
+        int y = 13;
     }
 }
