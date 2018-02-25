@@ -5,6 +5,9 @@ public class Glavna {
 
         System.out.println("Trala lala la");
 
+
+        int xxx = -1;
+
         System.out.println("prvo");
         
         int tmp1 = 1;
