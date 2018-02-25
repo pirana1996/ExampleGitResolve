@@ -12,5 +12,6 @@ public class Glavna {
         System.out.println("Daskalov");
         int f = -10;
         int g = 10;
+        int xxx = 69;
     }
 }
