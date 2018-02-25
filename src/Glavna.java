@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class Glavna {
     public static void main(String[] args){
+        System.out.println("xxx");
         int c = 0;
         System.out.println("FP");
         System.out.println("Koce");
