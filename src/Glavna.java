@@ -18,5 +18,6 @@ public class Glavna {
         System.out.println("K");
 
         System.out.println("Mleko");
+        System.out.println("Kakao");
     }
 }
