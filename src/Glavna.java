@@ -9,5 +9,6 @@ public class Glavna {
         int b = -1;
         System.out.println("Kiril");
         System.out.println("Daskalov");
+        int f = -10;
     }
 }
