@@ -10,5 +10,7 @@ public class Glavna {
             System.out.println("Top 7");
 
         System.out.println("Kraj");
+
+        int r=0;
     }
 }
