@@ -2,7 +2,9 @@ import java.util.Scanner;
 
 public class Glavna {
     public static void main(String[] args){
-        
+
+        System.out.println("Trala lala la");
+
         System.out.println("prvo");
         
         int tmp1 = 1;
