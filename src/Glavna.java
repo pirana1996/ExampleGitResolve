@@ -5,5 +5,6 @@ public class Glavna {
         System.out.println("Koce");
         System.out.println("HAHasA");
         System.out.println("TRALALA");
+        System.out.println("JANA");
     }
 }
