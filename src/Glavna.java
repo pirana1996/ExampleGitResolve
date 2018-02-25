@@ -12,5 +12,6 @@ public class Glavna {
         System.out.println("Kraj");
 
         int r=0;
+        int k=0;
     }
 }
