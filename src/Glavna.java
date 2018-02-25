@@ -3,6 +3,7 @@ public class Glavna {
         System.out.println("koce");
         System.out.println("Nade");
         System.out.println("Mirko");
+        System.out.println("Chorbev");
         int a = 1;
         if(a==1)
             System.out.println("Hey");
